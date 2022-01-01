@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AllRoutineActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:onClick="View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="30dp"
+        android:text="MONDAY"/>
+    <TextView
+        android:onClick="View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="30dp"
+        android:text="TUESDAY"/>
+    <TextView
+        android:onClick="View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="30dp"
+        android:text="WEDNESDAY"/>
+    <TextView
+        android:onClick="View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="30dp"
+        android:text="THURSDAY"/>
+    <TextView
+        android:onClick="View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="30dp"
+        android:text="FRIDAY"/>
+    <TextView
+        android:onClick="View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="30dp"
+        android:text="SATURDAY"/>
+    <TextView
+        android:onClick="View"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="30dp"
+        android:text="SUNDAY"/>
+
+
+</LinearLayout>
